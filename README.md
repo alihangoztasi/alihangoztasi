@@ -1,8 +1,6 @@
 
 ![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/507/159/desktop-wallpaper-game-developer-developer.jpg)
 
-
-
 <h1 align="center">Hi 👋, I'm Alihan Goztasi</h1>
 <h3 align="center">“I am a university student passionate about game development.”</h3>
 
